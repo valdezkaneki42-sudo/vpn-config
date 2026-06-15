@@ -1,1 +1,26 @@
-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
+{
+    "Version": "5",
+    "ReleaseNotes": "Rafiel507",
+    "Servers": [
+        {
+            "ServerName": "Personal AR",
+            "ServerInfo": "",
+            "ServerFlag": "ar",
+            "ServerType": 0,
+            "TunnelType": 0,
+            "ServerHost": "woocommerce.everlytic.net",
+            "ServerPort": 80,
+            "Username": "Shiro507",
+            "Password": "Panama",
+            "Payload": "GET \/ HTTP\/1.3[crlf]Host: ://personal.com.ar[crlf][crlf][crlf][split][crlf][split]GETT \/ HTTP\/1.1[crlf]Host: yapefk.kevintechtutorials.fun[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]"
+        },
+        {
+            "ServerName": "Tigo 2GB",
+            "ServerInfo": "",
+            "ServerFlag": "co",
+            "ServerType": 3,
+            "v2rayJson": "{\"inbounds\":[{\"port\":10808,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"ip\":\"127.0.0.1\"},\"tag\":\"socks-in\"}],\"outbounds\":[{\"mux\":{\"enabled\":false},\"protocol\":\"vmess\",\"settings\":{\"vnext\":[{\"address\":\"dranker.ellegendk93.store\",\"port\":443,\"users\":[{\"alterId\":0,\"id\":\"766940d4-f1ad-4684-b26d-5480b977e722\",\"level\":8,\"security\":\"auto\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":true,\"serverName\":\"api.ipify.org\"},\"wsSettings\":{\"headers\":{\"Host\":\"api.ipify.org\"},\"path\":\"\\/OXIiBTtV\\/\"}},\"tag\":\"VMESS\"}],\"policy\":{\"levels\":{\"8\":{\"connIdle\":300,\"downlinkOnly\":1,\"handshake\":4,\"uplinkOnly\":1}}}}"
+        }
+    ]
+}
+
